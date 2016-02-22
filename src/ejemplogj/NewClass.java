@@ -9,15 +9,6 @@ package ejemplogj;
  *
  * @author Edwin
  */
-public class Ejemplogj {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        int numero;
-        String cases;
-// TODO code application logic here
-    }
+public class NewClass {
     
 }
